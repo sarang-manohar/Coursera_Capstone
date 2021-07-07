@@ -34,6 +34,7 @@ Integrating the [crime reports](https://www.kaggle.com/kapastor/toronto-police-d
 ### The model
 The core data, venues/attractions data, & the crime data was brought together to create a master data for our model building. Only the necessary columns were retained and the data was scaled(standardized) prior to clustering. KMeans cluster algorithm was used to created multiple versions of models with different count of clusters. A scree plot helped us identify that 8 clusters will be optimal.
 
+# Making the right choice
+Analyzing the clusters with average number of attractions and the crime reported in last 5 years, we identify the neighborhoods that are the best for real estate investments. These neighborhoods have high number of attractions in/around them and also have very low count of crime reported in last 5 years.
+
 ![image](https://user-images.githubusercontent.com/76211413/124779036-1446bf00-df5f-11eb-895a-0c837a0f1e9d.png)
-
-
