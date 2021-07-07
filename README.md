@@ -32,5 +32,8 @@ Next step was to bring in the venues/attractions for each neighborhood and then 
 Integrating the [crime reports](https://www.kaggle.com/kapastor/toronto-police-data-crime-rates-by-neighbourhood) with the core data was the next step. It was an uphill task as the crime data though was clean it was not at the same granulrity as our core data. First the latitude and longitude of crime scene was used as pivot to rollup all the crime reports. This data snippet was then cross joined with the core data set. Using the latitude and longitude of Neighborhood and crime scene, euclidean distance was calculated. This was used to identify the closest neighborhood from the crime scene. The idea behind this was to calculate the number of crime reports by each neighborhood. The crime reports were futher aggreagted to get the crime reports by each neighborhood.
 
 ### The model
-The core data, venues/attractions data, & the crime data was brought together to create a master data for our model building. Only the necessary columns were retained and the data was scaled(standardized) prior to clustering. KMeans cluster algorithm was used to created multiple versions of models. 
+The core data, venues/attractions data, & the crime data was brought together to create a master data for our model building. Only the necessary columns were retained and the data was scaled(standardized) prior to clustering. KMeans cluster algorithm was used to created multiple versions of models with different count of clusters. A scree plot helped us identify that 8 clusters will be optimal.
+
+![image](https://user-images.githubusercontent.com/76211413/124779036-1446bf00-df5f-11eb-895a-0c837a0f1e9d.png)
+
 
