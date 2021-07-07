@@ -1,0 +1,268 @@
+Venue Category,Category
+Adult Boutique,Grooming
+American Restaurant,Restaurant
+Amphitheater,Entertainment
+Antique Shop,Misc
+Aquarium,Misc
+Art Gallery,Entertainment
+Art Museum,Entertainment
+Arts & Crafts Store,Store
+Arts & Entertainment,Entertainment
+Asian Restaurant,Restaurant
+Athletics & Sports,Sports
+Auto Dealership,Auto
+Auto Garage,Auto
+Automotive Shop,Auto
+Baby Store,Store
+Badminton Court,Sports
+Bagel Shop,Eatery
+Bakery,Eatery
+Bank,Business
+Bar,Liquor
+Baseball Field,Sports
+Basketball Court,Sports
+Basketball Stadium,Sports
+BBQ Joint,Restaurant
+Beer Bar,Liquor
+Beer Store,Store
+Belgian Restaurant,Restaurant
+Bike Shop,Auto
+Bike Trail,Sports
+Bistro,Eatery
+Boat or Ferry,Sports
+Bookstore,Store
+Botanical Garden,Entertainment
+Boutique,Grooming
+Brazilian Restaurant,Restaurant
+Breakfast Spot,Eatery
+Brewery,Liquor
+Bridge,Transport
+Bubble Tea Shop,Eatery
+Burger Joint,Restaurant
+Burrito Place,Restaurant
+Bus Line,Transport
+Bus Station,Transport
+Bus Stop,Transport
+Business Service,Business
+Butcher,Eatery
+Cable Car,Transport
+Café,Eatery
+Camera Store,Store
+Candy Store,Store
+Cantonese Restaurant,Restaurant
+Caribbean Restaurant,Restaurant
+Cheese Shop,Eatery
+Chinese Restaurant,Restaurant
+Chocolate Shop,Eatery
+Church,Misc
+Climbing Gym,Sports
+Clothing Store,Store
+Cocktail Bar,Liquor
+Coffee Shop,Eatery
+College Arts Building,Academic
+College Auditorium,Academic
+College Cafeteria,Academic
+College Gym,Academic
+College Rec Center,Academic
+College Stadium,Academic
+Colombian Restaurant,Restaurant
+Comedy Club,Entertainment
+Comfort Food Restaurant,Restaurant
+Comic Shop,Entertainment
+Concert Hall,Entertainment
+Construction & Landscaping,Business
+Convenience Store,Store
+Cosmetics Shop,Grooming
+Costume Shop,Grooming
+Creperie,Restaurant
+Cuban Restaurant,Restaurant
+Cupcake Shop,Eatery
+Curling Ice,Eatery
+Dance Studio,Entertainment
+Deli / Bodega,Store
+Department Store,Store
+Dessert Shop,Eatery
+Diner,Restaurant
+Discount Store,Store
+Distribution Center,Entertainment
+Dive Bar,Liquor
+Doctors Office,Business
+Dog Run,Sports
+Donut Shop,Eatery
+Dry Cleaner,Misc
+Dumpling Restaurant,Restaurant
+Eastern European Restaurant,Restaurant
+Electronics Store,Store
+Escape Room,Entertainment
+Ethiopian Restaurant,Restaurant
+Event Space,Entertainment
+Falafel Restaurant,Restaurant
+Farm,Misc
+Farmers Market,Store
+Fast Food Restaurant,Restaurant
+Field,Misc
+Fish & Chips Shop,Eatery
+Fish Market,Store
+Flea Market,Entertainment
+Flower Shop,Misc
+Food & Drink Shop,Eatery
+Food Court,Restaurant
+Food Truck,Eatery
+Fountain,Entertainment
+French Restaurant,Restaurant
+Fried Chicken Joint,Restaurant
+Frozen Yogurt Shop,Eatery
+Fruit & Vegetable Store,Store
+Furniture / Home Store,Store
+Gaming Cafe,Entertainment
+Garden,Entertainment
+Gas Station,Transport
+Gastropub,Liquor
+Gay Bar,Liquor
+General Entertainment,Entertainment
+General Travel,Transport
+German Restaurant,Restaurant
+Gift Shop,Misc
+Gluten-free Restaurant,Restaurant
+Golf Course,Sports
+Golf Driving Range,Sports
+Gourmet Shop,Eatery
+Greek Restaurant,Restaurant
+Grocery Store,Store
+Gym,Sports
+Gym / Fitness Center,Sports
+Gym Pool,Sports
+Halal Restaurant,Restaurant
+Historic Site,Entertainment
+Hobby Shop,Misc
+Hockey Arena,Sports
+Home Service,Business
+Hong Kong Restaurant,Restaurant
+Hookah Bar,Liquor
+Hotel,Business
+Hotel Bar,Liquor
+Housing Development,Business
+Ice Cream Shop,Eatery
+Indian Restaurant,Restaurant
+Intersection,Transport
+Irish Pub,Liquor
+IT Services,Business
+Italian Restaurant,Restaurant
+Japanese Restaurant,Restaurant
+Jazz Club,Entertainment
+Jewelry Store,Store
+Juice Bar,Eatery
+Kitchen Supply Store,Store
+Korean BBQ Restaurant,Restaurant
+Korean Restaurant,Restaurant
+Lake,Entertainment
+Latin American Restaurant,Restaurant
+Leather Goods Store,Store
+Light Rail Station,Transport
+Lingerie Store,Store
+Liquor Store,Store
+Lounge,Liquor
+Luggage Store,Store
+Malay Restaurant,Restaurant
+Market,Store
+Martial Arts School,Academic
+Massage Studio,Entertainment
+Mattress Store,Store
+Mediterranean Restaurant,Restaurant
+Mens Store,Store
+Metro Station,Transport
+Mexican Restaurant,Restaurant
+Middle Eastern Restaurant,Restaurant
+Miscellaneous Shop,Misc
+Modern European Restaurant,Restaurant
+Molecular Gastronomy Restaurant,Restaurant
+Monument / Landmark,Entertainment
+Moroccan Restaurant,Restaurant
+Movie Theater,Entertainment
+Museum,Entertainment
+Music Venue,Entertainment
+Neighborhood,Misc
+New American Restaurant,Restaurant
+Nightclub,Entertainment
+Noodle House,Restaurant
+Office,Business
+Opera House,Entertainment
+Optical Shop,Misc
+Organic Grocery,Store
+Other Great Outdoors,Misc
+Pakistani Restaurant,Restaurant
+Park,Entertainment
+Performing Arts Venue,Entertainment
+Peruvian Restaurant,Restaurant
+Pet Store,Store
+Pharmacy,Health
+Pie Shop,Eatery
+Pizza Place,Restaurant
+Platform,Misc
+Playground,Entertainment
+Plaza,Entertainment
+Poke Place,Entertainment
+Pool,Entertainment
+Portuguese Restaurant,Restaurant
+Post Office,Business
+Poutine Place,Misc
+Print Shop,Misc
+Pub,Liquor
+Ramen Restaurant,Restaurant
+Record Shop,Misc
+Residential Building (Apartment / Condo),Business
+Restaurant,Restaurant
+Rock Climbing Spot,Sports
+Rock Club,Entertainment
+Roof Deck,Misc
+Sake Bar,Eatery
+Salad Place,Eatery
+Salon / Barbershop,Grooming
+Sandwich Place,Eatery
+Sculpture Garden,Entertainment
+Seafood Restaurant,Restaurant
+Shoe Store,Store
+Shopping Mall,Shopping Mall
+Skating Rink,Sports
+Smoke Shop,Misc
+Smoothie Shop,Eatery
+Snack Place,Eatery
+Soccer Field,Sports
+Soccer Stadium,Sports
+Soup Place,Eatery
+Souvlaki Shop,Eatery
+Spa,Grooming
+Spanish Restaurant,Restaurant
+Speakeasy,Misc
+Sporting Goods Shop,Sports Store
+Sports Bar,Liquor
+Sports Club,Sports
+Steakhouse,Restaurant
+Storage Facility,Misc
+Strip Club,Entertainment
+Supermarket,Store
+Sushi Restaurant,Restaurant
+Taco Place,Eatery
+Tailor Shop,Tailor
+Taiwanese Restaurant,Restaurant
+Tanning Salon,Grooming
+Tea Room,Eatery
+Tennis Court,Sports
+Thai Restaurant,Restaurant
+Theater,Entertainment
+Theme Park,Entertainment
+Theme Park Ride / Attraction,Entertainment
+Theme Restaurant,Restaurant
+Toy / Game Store,Store
+Trail,Sports
+Train Station,Transport
+Turkish Restaurant,Restaurant
+Vegetarian / Vegan Restaurant,Restaurant
+Video Game Store,Store
+Vietnamese Restaurant,Restaurant
+Wine Bar,Liquor
+Wine Shop,Liquor
+Wings Joint,Eatery
+Womens Store,Store
+Yoga Studio,Sports
+Zoo Exhibit,Entertainment
