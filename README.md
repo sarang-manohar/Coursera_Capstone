@@ -36,7 +36,7 @@ Further more to get a sense of which time of the day the crime reports are more 
 ### The model
 The core data, venues/attractions data, & the crime data was brought together to create a master data for our model building. Only the necessary columns were retained and the data was scaled(standardized) prior to clustering. KMeans cluster algorithm was used to created multiple versions of models with different count of clusters. A scree plot helped us identify that 8 clusters will be optimal.
 
-# The conclusion
+# The Result
 Analyzing the clusters with average number of attractions and the crime reported in last 5 years, we identify the neighborhoods labeled as 2, 3, & 4 are the best for real estate investments. These neighborhoods have high number of attractions in/around them and also have very low count of crime reported in last 5 years.
 
 ![image](https://user-images.githubusercontent.com/76211413/124779036-1446bf00-df5f-11eb-895a-0c837a0f1e9d.png)
@@ -45,3 +45,10 @@ The overlay with crime report heatmap also helps get a sense of the areas where 
 
 ![image](https://user-images.githubusercontent.com/76211413/124845130-b2fd0b00-dfb3-11eb-865f-4b4ecc3a9160.png)
 
+# The discussion
+The likeness or desirability of a property is one of the key fators in deciding the price. A data driven analysis by looking at as many aspects no matter how trivial they may appear should be done to assess their impacts. This project was an attempt to bring together all such aspects and look at the problem statement from statistical lens.
+
+# The conclusion
+This project was an attempt to add another dimension to the decision making process when a customer is looking to make an investment in a property. We were able to address the problem statement by clustering and grouping the neighborhoods considering various factors. It was found that some neighborhoods have low count of attractions but bery high crime rates. These would be the areas where the investors need to avoid making any investments.
+
+This analysis can further help the administration to identify the reasons why certain areas have high crime rate and take preventive measures.
