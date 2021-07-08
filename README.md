@@ -40,3 +40,8 @@ The core data, venues/attractions data, & the crime data was brought together to
 Analyzing the clusters with average number of attractions and the crime reported in last 5 years, we identify the neighborhoods labeled as 2, 3, & 4 are the best for real estate investments. These neighborhoods have high number of attractions in/around them and also have very low count of crime reported in last 5 years.
 
 ![image](https://user-images.githubusercontent.com/76211413/124779036-1446bf00-df5f-11eb-895a-0c837a0f1e9d.png)
+
+The overlay with crime report heatmap also helps get a sense of the areas where the ocurences are high and help the customers avoid making investments in such areas.
+
+![image](https://user-images.githubusercontent.com/76211413/124845130-b2fd0b00-dfb3-11eb-865f-4b4ecc3a9160.png)
+
